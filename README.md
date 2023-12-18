@@ -21,6 +21,8 @@
 ## HRweb
 [![](https://avatars.githubusercontent.com/u/5740925?s=48&v=4) BambooHR](https://github.com/BambooHR)
 
+[![](https://avatars.githubusercontent.com/u/6368483?s=48&v=4) Odoo](https://github.com/odoo/odoo)
+
 ## Microsoft Office
 [![](https://avatars.githubusercontent.com/u/5824056?s=48&v=4) LibreOffice](https://github.com/LibreOffice)
 
