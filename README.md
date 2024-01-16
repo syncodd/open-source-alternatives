@@ -19,7 +19,7 @@
 [![](https://avatars.githubusercontent.com/u/419663?s=48&v=4) TaskBoard](https://github.com/kiswa/TaskBoard)
 
 ## HRweb
-[![](https://avatars.githubusercontent.com/u/5740925?s=48&v=4) BambooHR](https://github.com/BambooHR)
+[![](https://avatars.githubusercontent.com/u/877491?s=48&v=4) Dolibarr](https://github.com/Dolibarr/dolibarr)
 
 [![](https://avatars.githubusercontent.com/u/6368483?s=48&v=4) Odoo](https://github.com/odoo/odoo)
 
